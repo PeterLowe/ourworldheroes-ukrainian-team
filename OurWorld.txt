@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Compiled by Peter Lowe Ostap Boychuk [PL] Yuliia Antonova 
-=======
-Compiled by Peter Lowe Ostap Boychuk Solomiya Datskiv [PL]
->>>>>>> 14c28e854a17ea2b46e0722f678742818054cdcf
+Compiled by Peter Lowe[PL] Ostap Boychuk [OB] Solomiya Datskiv [SD]
 
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
